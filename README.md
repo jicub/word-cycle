@@ -1,4 +1,4 @@
-Vanilla JS with CSS3 Animation
+Infinite word cycling with Vanilla JS and CSS3
 ===================
 
 ### Decription
