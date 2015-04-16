@@ -15,7 +15,7 @@ var words = (function(){
 		currentIndex,
 		currentWord,
 		prevWord,
-		duration = 5000;
+		duration = 4000;
 
 	var _getIndex = function(max, min){
 		currentIndex = Math.floor(Math.random() * (max - min + 1)) + min;

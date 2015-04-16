@@ -1,9 +1,5 @@
 
-site/.sass-cache
-build/
+.sass-cache
 node_modules
 
-site/.DS_Store
-../.DS_Store
 .DS_Store
-sass/.DS_Store

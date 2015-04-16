@@ -48,10 +48,7 @@ module.exports = function(grunt) {
 		jshint: {
 			all: [
 				'js/**/*.js',
-				'!js/classListShim.js',
-				'!js/libs/**/*.js',
-				'!js/plugins/**/*.js',
-				'!js/app.config.js'
+				'!js/classListShim.js'
 			]
 		}
 	});
